@@ -17,16 +17,15 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
+![Screenshot 2024-12-02 183002](https://github.com/user-attachments/assets/3c04df12-9bc3-46c9-8207-9c22c4c8070b)
 
-TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
+
+PASSWORD SHOWING:
+![WhatsApp Image 2024-12-02 at 6 34 33 PM](https://github.com/user-attachments/assets/a7054ebd-98f3-4d29-8975-f60277691bc3)
+
+
 
 SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+![WhatsApp Image 2024-12-02 at 6 34 33 PM](https://github.com/user-attachments/assets/184ab0f4-52c3-4851-896b-4a078ca17cda)
 
-HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
 
-CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
