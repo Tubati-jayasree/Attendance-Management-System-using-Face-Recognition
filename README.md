@@ -17,15 +17,17 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot 2024-12-02 183002](https://github.com/user-attachments/assets/3c04df12-9bc3-46c9-8207-9c22c4c8070b)
-
+![Screenshot 2024-12-02 165550](https://github.com/user-attachments/assets/ca6c0dc5-1310-44a5-9aaa-368ffb5ec43d)
 
 PASSWORD SHOWING:
 ![WhatsApp Image 2024-12-02 at 6 34 33 PM](https://github.com/user-attachments/assets/a7054ebd-98f3-4d29-8975-f60277691bc3)
 
-
-
 SHOWING ATTENDANCE TAKEN:
-![WhatsApp Image 2024-12-02 at 6 34 33 PM](https://github.com/user-attachments/assets/184ab0f4-52c3-4851-896b-4a078ca17cda)
+![Screenshot 2024-12-06 202649](https://github.com/user-attachments/assets/0c8e6a23-2a4e-4112-84fd-8bb846ec5265)
+
+STUDENT DETAILS:
+![Screenshot 2024-12-06 203141](https://github.com/user-attachments/assets/4482c7f6-9693-430d-bc1d-f10fc64a4c4d)
+
+
 
 
