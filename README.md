@@ -26,7 +26,8 @@ SHOWING ATTENDANCE TAKEN:
 ![Screenshot 2024-12-06 202649](https://github.com/user-attachments/assets/0c8e6a23-2a4e-4112-84fd-8bb846ec5265)
 
 STUDENT DETAILS:
-![Screenshot 2024-12-06 203141](https://github.com/user-attachments/assets/4482c7f6-9693-430d-bc1d-f10fc64a4c4d)
+![Screenshot 2024-12-07 011002](https://github.com/user-attachments/assets/4472c694-a8c4-40f5-b998-f0a7b79d002b)
+
 
 
 
