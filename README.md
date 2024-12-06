@@ -20,7 +20,7 @@ MAIN SCREEN:
 ![Screenshot 2024-12-02 165550](https://github.com/user-attachments/assets/ca6c0dc5-1310-44a5-9aaa-368ffb5ec43d)
 
 PASSWORD SHOWING:
-![WhatsApp Image 2024-12-02 at 6 34 33 PM](https://github.com/user-attachments/assets/a7054ebd-98f3-4d29-8975-f60277691bc3)
+![WhatsApp Image 2024-12-06 at 9 24 50 PM](https://github.com/user-attachments/assets/f9cfad2c-ef66-4b4f-a803-fd1e5074ee53)
 
 SHOWING ATTENDANCE TAKEN:
 ![Screenshot 2024-12-06 202649](https://github.com/user-attachments/assets/0c8e6a23-2a4e-4112-84fd-8bb846ec5265)
